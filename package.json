@@ -1,0 +1,39 @@
+{
+    "name": "tosa-numerique-essentials",
+    "displayName": "Tosa Numérique Essentials",
+    "description": "TOSA Numérique Essential Extensions for Visual Studio Code",
+    "icon": "images/schoolofweb.jpg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Djbrown184/vscode-tosa-numerique-essentials"
+    },
+    "keywords": [
+        "TOSA",
+        "tosa",
+        "essentials"
+    ],
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [  
+        "ritwickdey.liveserver",
+        "naumovs.color-highlight",
+        "msjsdiag.debugger-for-chrome",
+        "msjsdiag.debugger-for-edge",
+        "raathigeshan.fabulous",
+        "ms-ceintl.vscode-language-pack-fr",
+        "dbaeumer.vscode-eslint",
+        "dbaeumer.jshint",
+        "christian-kohler.npm-intellisense",
+        "visualstudioexptteam.vscodeintellicode",
+        "xabikos.javascriptsnippets",
+        "firefox-devtools.vscode-firefox-debug",
+        "mrmlnc.vscode-autoprefixer",
+        "esbenp.prettier-vscode"
+    ],
+    "publisher": "Djbrown184"
+}
